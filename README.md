@@ -6,7 +6,7 @@ This program calculates the final amount from an investment made in a mutual fun
 
 <h3> Author </h3>
 Name: Royal Mishra </br>
-Date: 20/03/2025
+Date: 20/03/2025 </hr>
 
 <h2> Functionality </h2>
 The program prompts the user to enter: </br>
