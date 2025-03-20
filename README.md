@@ -11,25 +11,25 @@ Date: 20/03/2025 <hr>
 <h2> Functionality </h2>
 The program prompts the user to enter: </br>
 
-The initial investment amount.</br>
+<i>The initial investment amount.</br>
 The number of years for which the investment will be made.</br>
 The annual rate of interest (in percentage).</br>
 The number of times the interest is compounded per year.</br>
-The program then calculates the final amount after the investment period and displays it to the user.</br>
+The program then calculates the final amount after the investment period and displays it to the user.</br></i>
 
 <h2>Input</h2>
 The program requires the following inputs from the user:</br>
 
-Amount: The initial investment amount (float).</br>
+<i>Amount: The initial investment amount (float).</br>
 Time: The duration of the investment in years (float).</br>
 Interest: The annual interest rate (percentage) (float).</br>
-Compounding_Time: The number of times interest is compounded per year (integer).</br>
+Compounding_Time: The number of times interest is compounded per year (integer).</br></i>
 
 <h3>Output</h3></br>
 
-The program outputs:</br>
+<i>The program outputs:</br>
 The entered investment details for confirmation.</br>
-The final amount after the investment period, including the compounded interest.</br>
+The final amount after the investment period, including the compounded interest.</br></i>
 
 
 <h3>Notes</h3>
