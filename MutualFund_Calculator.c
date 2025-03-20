@@ -43,6 +43,7 @@ int main()
          
          
          // Display the final amount to the user
+         // To Display The Integer Value UnComment this ---> | int Final_Amount = (int) Final_Amount;| and replace  |%f| with |%d| below
          printf(" You will get %f Amount Finally ",Final_Amount);
         
          system("pause");
