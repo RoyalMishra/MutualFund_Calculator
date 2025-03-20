@@ -1,11 +1,11 @@
 # Mutual Fund Investment Calculator
-Simple and Fast Mutual Fund Calculator Written Using C language
+Simple and Fast Mutual Fund Calculator Written Using <b>C language </b>
 
 <h1>Description</h1>
 This program calculates the final amount from an investment made in a mutual fund based on user-defined inputs. It computes the compound interest over a specified period, taking into account the investment amount, interest rate, and frequency of compounding.
 
 <h3> Author </h3>
-Name: Royal Mishra
+Name: Royal Mishra </br>
 Date: 20/03/2025
 
 <h2> Functionality </h2>
