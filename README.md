@@ -9,27 +9,27 @@ Name: Royal Mishra </br>
 Date: 20/03/2025
 
 <h2> Functionality </h2>
-The program prompts the user to enter:
+The program prompts the user to enter: </br>
 
-The initial investment amount.
-The number of years for which the investment will be made.
-The annual rate of interest (in percentage).
-The number of times the interest is compounded per year.
-The program then calculates the final amount after the investment period and displays it to the user.
+The initial investment amount.</br>
+The number of years for which the investment will be made.</br>
+The annual rate of interest (in percentage).</br>
+The number of times the interest is compounded per year.</br>
+The program then calculates the final amount after the investment period and displays it to the user.</br>
 
 <h2>Input</h2>
-The program requires the following inputs from the user:
+The program requires the following inputs from the user:</br>
 
-Amount: The initial investment amount (float).
-Time: The duration of the investment in years (float).
-Interest: The annual interest rate (percentage) (float).
-Compounding_Time: The number of times interest is compounded per year (integer).
+Amount: The initial investment amount (float).</br>
+Time: The duration of the investment in years (float).</br>
+Interest: The annual interest rate (percentage) (float).</br>
+Compounding_Time: The number of times interest is compounded per year (integer).</br>
 
-<h3>Output</h3>
+<h3>Output</h3></br>
 
-The program outputs:
-The entered investment details for confirmation.
-The final amount after the investment period, including the compounded interest.
+The program outputs:</br>
+The entered investment details for confirmation.</br>
+The final amount after the investment period, including the compounded interest.</br>
 
 
 <h3>Notes</h3>
